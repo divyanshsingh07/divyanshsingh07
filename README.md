@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/arshthakur07" target="blank"><img src="https://img.shields.io/twitter/follow/arshthakur07?logo=twitter&style=for-the-badge" alt="arshthakur07" /></a> </p>
 
 
-- 🌱 I’m currently learning **NEXT.JS ,NODE.JS**
+- 🌱 I’m currently learning **NEXT.JS ,NODE.JS,Express.js**
 
 - 👨‍💻 All of my projects are available at [https://divyanshsingh07.github.io/portfolio/](https://divyanshsingh07.github.io/portfolio/)
 
