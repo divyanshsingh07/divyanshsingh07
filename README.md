@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Particle js project](https://divyanshsingh07.github.io/firstParticlejsProject/)
 
-- 🌱 I’m currently learning **NEXT.JS ,NODE.JS**
+- 🌱 I’m currently learning **NEXT.JS ,NODE.JS,Express.js**
 
 - 👨‍💻 All of my projects are available at [https://divyanshsingh07.github.io/portfolio/](https://divyanshsingh07.github.io/portfolio/)
 
