@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/arshthakur07" target="blank"><img src="https://img.shields.io/twitter/follow/arshthakur07?logo=twitter&style=for-the-badge" alt="arshthakur07" /></a> </p>
 
-- 🔭 I’m currently working on [Particle js project](https://divyanshsingh07.github.io/firstParticlejsProject/)
 
 - 🌱 I’m currently learning **NEXT.JS ,NODE.JS**
 
