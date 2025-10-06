@@ -28,7 +28,7 @@ Emerging **Full Stack & DevOps** talent skilled in interactive UI design and wor
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" width="300" />
 
 ### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,aws,azure,postman,vscode" width="450" />
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,githubactions,jenkins,aws,azure,postman,vscode" width="450" />
 
 ---
 
@@ -43,12 +43,11 @@ Emerging **Full Stack & DevOps** talent skilled in interactive UI design and wor
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/divyansharsh)  
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:divyanshsingharsh@gmail.com)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/divyanshsingh07)  
-[![Portfolio](https://skillicons.dev/icons?i=website)](https://divyansharsh.codes/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/divyansharsh) &nbsp;&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:divyanshsingharsh@gmail.com) &nbsp;&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/divyanshsingh07) &nbsp;&nbsp;
+[![Portfolio](https://img.icons8.com/color/48/000000/domain.png)](https://divyansh.codes/)
 ---
-
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshsingh07&theme=radical&hide_border=true)  
