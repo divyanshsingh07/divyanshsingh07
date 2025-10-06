@@ -1,26 +1,72 @@
-# 💫 About Me:
-👨‍💻 A Passionate Full Stack Developer | MERN Stack Developer | Cloud Enthusiast from India<br><br>📧 Email Me 👉 ✉️ divyanshsingharsh@gmail.com for Collaboration / Projects / or Anything Else 😊😊<br><br>🔭 I’m currently working on: AI-powered Projects, Web Applications & Chrome Extensions<br>🌱 I’m currently learning: Next.js, Cloud (AWS & Azure), and Advanced React<br>👯 I’m looking to collaborate on: Full Stack Projects, AI + Web Integrations, and Open Source Contributions<br>🤔 I’m looking for help with: Building Scalable AI-powered Applications<br>💬 Ask me about: MERN Stack, Frontend Development, Cloud, and Project Collaboration<br>📫 How to reach me: ✉️ divyanshsingharsh@gmail.com / arsh8004105292@gmail.com<br>😄 Pronouns: He/Him (Divyansh)<br>⚡ Fun fact: I Debug for Fun & Build for Passion 🚀<br>
+<!-- Animated Header -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=500&color=FF6F61&width=900&lines=Hey+there!+I'm+Divyansh+Singh;Full+Stack+%26+DevOps+Engineer;Building+Scalable+Web+Apps+and+Automated+Workflows)
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arshthakur07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansharsh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arshthakur07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyanshsingharsh@gmail.com) 
+## 💻 About Me
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=divyanshsingh07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=divyanshsingh07&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshsingh07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+📍 Ayodhya, Uttar Pradesh, India  
+🌐 Personal Website: [divyansh.codes](https://divyansh.codes)  
+📧 Email: divyanshsingharsh@gmail.com  
+📱 Contact: +91-9517593294  
+💼 LinkedIn: [in/divyansharsh](https://www.linkedin.com/in/divyansharsh)
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+**Summary:**  
+Emerging **Full Stack & DevOps** talent skilled in interactive UI design and workflow optimisation. Reduced release time by 30% through automation and improved data insights by 40% with dynamic dashboards. Seeking to drive innovation in scalable software development.
 
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+## 🛠 Tech Stack
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/9517593294@yespop) 
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=js,java,python,r" width="250" />
 
-  
+### Frontend & Frameworks
+<img src="https://skillicons.dev/icons?i=react,tailwindcss,html,css" width="300" />
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" width="300" />
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,aws,azure,postman,vscode" width="450" />
+
+---
+
+## 🏅 Certifications
+
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate  
+- AWS Academy Graduate - Cloud Architecting (2024)  
+- Microsoft Certified: Azure AI Fundamentals (AI-900, 2024)  
+- Java Full Stack Industrial Internship – Imarticus Learning
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/divyansharsh)  
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:divyanshsingharsh@gmail.com)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/divyanshsingh07)  
+[![Portfolio](https://skillicons.dev/icons?i=website)](https://divyansharsh.codes/)
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshsingh07&theme=radical&hide_border=true)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyanshsingh07&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6F61)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=divyanshsingh07&theme=onedark&no-frame=true&row=1&column=6)
+
+---
+
+## 👁 Profile Visitors
+
+![Profile Visitors](https://komarev.com/ghpvc/?username=divyanshsingh07&label=Profile+Visits&color=0e75b6&style=for-the-badge)
+
+---
+
+⭐ **“Code. Automate. Deploy. Innovate.”**  
+> _Building smarter web experiences and automated workflows 🌍_
