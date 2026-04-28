@@ -55,11 +55,11 @@ Emerging **Full Stack & DevOps** talent skilled in interactive UI design and wor
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=divyanshsingh07&theme=onedark&no-frame=true&row=1&column=6)
-
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=divyanshsingh07&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
 
 ## 👁 Profile Visitors
 
