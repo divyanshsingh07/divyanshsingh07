@@ -50,8 +50,18 @@ Emerging **Full Stack & DevOps** talent skilled in interactive UI design and wor
 ---
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshsingh07&theme=radical&hide_border=true)  
+
+<div align="left">
+  
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=divyanshsingh07&count_private=true&theme=tokyonight&hide_border=true" height="180" width="424" alt="streak card"/>
+  <div>
+    <img src="https://github-readme-stats-sandy-phi-16.vercel.app/api?username=divyanshsingh07&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged&custom_title=Stats" height="200" alt="stats graph" />
+    <img src="https://github-readme-stats-sandy-phi-16.vercel.app/api/top-langs/?username=divyanshsingh07&hide=html,css&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=github-readme-stats&card_width=320" height="200" alt="languages graph"  />
+  </div>
+</div>
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyanshsingh07&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6F61)
+
 
 ---
 
