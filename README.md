@@ -1,81 +1,142 @@
-<!-- Animated Header -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=500&color=FF6F61&width=900&lines=Hey+there!+I'm+Divyansh+Singh;Full+Stack+%26+DevOps+Engineer;Building+Scalable+Web+Apps+and+Automated+Workflows)
+# Hey there! I'm Divyansh Singh
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=700&color=FF6F61&center=true&vCenter=true&width=850&lines=Full+Stack+%26+DevOps+Engineer;Building+Scalable+Web+Applications;Automating+Workflows+%26+Deployments;Turning+Ideas+into+Production+Systems"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/divyanshsingh07">
+    <img src="https://img.shields.io/github/followers/divyanshsingh07?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/divyanshsingh07?tab=repositories">
+    <img src="https://img.shields.io/github/stars/divyanshsingh07?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=divyanshsingh07&label=Profile%20Views&color=FF6F61&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
 ## 💻 About Me
 
-📍 Ayodhya, Uttar Pradesh, India  
-🌐 Personal Website: [divyansh.codes](https://divyansh.codes)  
-📧 Email: divyanshsingharsh@gmail.com  
-📱 Contact: +91-9517593294  
-💼 LinkedIn: [in/divyansharsh](https://www.linkedin.com/in/divyansharsh)
+I'm a **Full Stack & DevOps Engineer** focused on building scalable web applications, interactive user experiences, automated workflows, and reliable deployment pipelines.
 
-**Summary:**  
-Emerging **Full Stack & DevOps** talent skilled in interactive UI design and workflow optimisation. Reduced release time by 30% through automation and improved data insights by 40% with dynamic dashboards. Seeking to drive innovation in scalable software development.
+* 📍 **Ayodhya, Uttar Pradesh, India**
+* 🌐 **Portfolio:** [divyansh.codes](https://divyansh.codes)
+* 📧 **Email:** [divyanshsingharsh@gmail.com](mailto:divyanshsingharsh@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/divyansharsh](https://www.linkedin.com/in/divyansharsh)
+
+### Highlights
+
+* ⚡ Reduced release time by **30%** through automation.
+* 📊 Improved data insights by **40%** using dynamic dashboards.
+* 🧩 Full-stack application development.
+* ☁️ Cloud infrastructure and deployment.
+* 🔄 CI/CD and workflow automation.
+* 🐳 Containerization and DevOps practices.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=js,java,python,r" width="250" />
 
-### Frontend & Frameworks
-<img src="https://skillicons.dev/icons?i=react,tailwindcss,html,css" width="300" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,python,r" alt="Programming Languages" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="Frontend Technologies" />
+</p>
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" width="300" />
 
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,githubactions,jenkins,aws,azure,postman,vscode" width="450" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Database Technologies" />
+</p>
+
+### DevOps, Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,githubactions,jenkins,aws,azure,postman,vscode" alt="DevOps, Cloud and Tools" />
+</p>
 
 ---
 
 ## 🏅 Certifications
 
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate  
-- AWS Academy Graduate - Cloud Architecting (2024)  
-- Microsoft Certified: Azure AI Fundamentals (AI-900, 2024)  
-- Java Full Stack Industrial Internship – Imarticus Learning
+* **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
+* **AWS Academy Graduate – Cloud Architecting** — 2024
+* **Microsoft Certified: Azure AI Fundamentals (AI-900)** — 2024
+* **Java Full Stack Industrial Internship – Imarticus Learning**
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/divyansharsh) &nbsp;&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:divyanshsingharsh@gmail.com) &nbsp;&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/divyanshsingh07) &nbsp;&nbsp;
-[![Portfolio](https://img.icons8.com/color/48/000000/domain.png)](https://divyansh.codes/)
----
-## 📊 GitHub Stats
-
-
-<div align="left">
-  
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=divyanshsingh07&count_private=true&theme=tokyonight&hide_border=true" height="180" width="424" alt="streak card"/>
-  <div>
-    <img src="https://github-readme-stats-sandy-phi-16.vercel.app/api?username=divyanshsingh07&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged&custom_title=Stats" height="200" alt="stats graph" />
-    <img src="https://github-readme-stats-sandy-phi-16.vercel.app/api/top-langs/?username=divyanshsingh07&hide=html,css&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=github-readme-stats&card_width=320" height="200" alt="languages graph"  />
-  </div>
-</div>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyanshsingh07&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6F61)
-
-
----
-
-## 🏅 GitHub Trophies  
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyanshsingh07&theme=onedark&no-frame=true&row=1&column=6" />
+  <img
+    src="https://streak-stats.vercel.app?user=divyanshsingh07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
-
-## 👁 Profile Visitors
-
-![Profile Visitors](https://komarev.com/ghpvc/?username=divyanshsingh07&label=Profile+Visits&color=0e75b6&style=for-the-badge)
 
 ---
 
-⭐ **“Code. Automate. Deploy. Innovate.”**  
-> _Building smarter web experiences and automated workflows 🌍_
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshsingh07&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6F61&line=FF6F61&point=FFFFFF&area=true"
+    width="95%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/divyanshsingh07">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/divyansharsh">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:divyanshsingharsh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://divyansh.codes">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" width="45" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## 👁️ Profile Visitors
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=divyanshsingh07&label=Profile%20Views&color=FF6F61&style=for-the-badge"
+    alt="Profile Visitors"
+  />
+</p>
+
+---
+
+<p align="center">
+  <strong>⭐ Code. Automate. Deploy. Innovate. ⭐</strong>
+</p>
+
+<p align="center">
+  <i>Building smarter web experiences and automated workflows.</i>
+</p>
