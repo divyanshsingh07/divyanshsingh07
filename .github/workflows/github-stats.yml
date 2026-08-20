@@ -1,0 +1,28 @@
+name: Generate GitHub Profile Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  profile-cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile cards
+        uses: seijikohara/profile-cards-action@v0
+        with:
+          github-token: ${{ secrets.GITHUB_STATS_TOKEN }}
+          username: divyanshsingh07
+          cards: overview,lifetime,contributions,composition,rhythm,languages
+          output-dir: profile
+          themes: light,dark
+          commit: true
+          commit-message: "chore: update GitHub profile cards [skip ci]"
