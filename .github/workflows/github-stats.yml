@@ -1,71 +1,28 @@
-name: Update GitHub Profile Stats
+name: Generate GitHub Profile Cards
 
 on:
-  schedule:
-    - cron: "17 2 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  generate-stats:
+  profile-cards:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # ---------------------------------------------------------
-      # GitHub Readme Stats
-      # ---------------------------------------------------------
-
-      - name: Generate GitHub Stats
-        uses: stats-organization/github-readme-stats-action@v2
+      - name: Generate profile cards
+        uses: seijikohara/profile-cards-action@v0
         with:
-          card: stats
-          options: >-
-            username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,reviews,discussions_started,discussions_answered&custom_title=GitHub%20Stats
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_STATS_TOKEN }}
-
-      - name: Generate Top Languages
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: >-
-            username=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=400
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_STATS_TOKEN }}
-
-      # ---------------------------------------------------------
-      # GitHub Profile Summary Cards
-      # ---------------------------------------------------------
-
-      - name: Generate Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_STATS_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: main
-          UTC_OFFSET: 5.5
-          EXCLUDE: ""
-          AUTO_PUSH: false
-          THEME: github_dark
-
-      # ---------------------------------------------------------
-      # Commit generated files
-      # ---------------------------------------------------------
-
-      - name: Commit generated cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add profile/
-          git add profile-summary-card-output/
-
-          git diff --cached --quiet || git commit -m "chore: update GitHub profile stats"
-
-          git push
+          github-token: ${{ secrets.GITHUB_STATS_TOKEN }}
+          username: divyanshsingh07
+          cards: overview,lifetime,contributions,composition,rhythm,languages
+          output-dir: profile
+          themes: light,dark
+          commit: true
+          commit-message: "chore: update GitHub profile cards [skip ci]"
