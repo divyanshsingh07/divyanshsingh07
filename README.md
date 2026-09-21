@@ -1,13 +1,6 @@
 # Hey there! I'm Divyansh Singh
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=700&color=FF6F61&center=true&vCenter=true&width=850&lines=Full+Stack+%26+DevOps+Engineer;Building+Scalable+Web+Applications;Automating+Workflows+%26+Deployments;Turning+Ideas+into+Production+Systems"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
   <a href="https://github.com/divyanshsingh07">
     <img src="https://img.shields.io/github/followers/divyanshsingh07?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
   </a>
@@ -19,25 +12,8 @@
 
 ---
 
-## 💻 About Me
 
-I'm a **Full Stack & DevOps Engineer** focused on building scalable web applications, interactive user experiences, automated workflows, and reliable deployment pipelines.
 
-* 📍 **Ayodhya, Uttar Pradesh, India**
-* 🌐 **Portfolio:** [divyansh.codes](https://divyansh.codes)
-* 📧 **Email:** [divyanshsingharsh@gmail.com](mailto:divyanshsingharsh@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/divyansharsh](https://www.linkedin.com/in/divyansharsh)
-
-### Highlights
-
-* ⚡ Reduced release time by **30%** through automation.
-* 📊 Improved data insights by **40%** using dynamic dashboards.
-* 🧩 Full-stack application development.
-* ☁️ Cloud infrastructure and deployment.
-* 🔄 CI/CD and workflow automation.
-* 🐳 Containerization and DevOps practices.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -67,14 +43,7 @@ I'm a **Full Stack & DevOps Engineer** focused on building scalable web applicat
 
 ---
 
-## 🏅 Certifications
 
-* **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-* **AWS Academy Graduate – Cloud Architecting** — 2024
-* **Microsoft Certified: Azure AI Fundamentals (AI-900)** — 2024
-* **Java Full Stack Industrial Internship – Imarticus Learning**
-
----
 
 ## 📊 GitHub Statistics
 
@@ -88,15 +57,6 @@ I'm a **Full Stack & DevOps Engineer** focused on building scalable web applicat
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshsingh07&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6F61&line=FF6F61&point=FFFFFF&area=true"
-    width="95%"
-    alt="GitHub Contribution Activity"
-  />
-</p>
 
 ---
 
